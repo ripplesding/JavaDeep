@@ -53,7 +53,7 @@ public class Decorator {
             super.show();
         }
     }
-    class BigTrouser extends Finery{
+    class  BigTrouser extends Finery{
         @Override
         public void show(){
             System.out.println("大垮裤 ");
