@@ -1,4 +1,4 @@
-package src;
+package Base;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
@@ -30,7 +30,7 @@ public class ThreadUseMethods {
 //                return 123;
 //            }
 //        }));
-        Thread thread3 = new MyThread();
+        Thread thread3 = new MyThread1();
 
         thread1.start();
         thread2.start();
@@ -39,7 +39,7 @@ public class ThreadUseMethods {
 
     }
 }
-class MyThread extends Thread{
+class MyThread1 extends Thread{
     @Override
     public void run(){
         System.out.println("1234");
