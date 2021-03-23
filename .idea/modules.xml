@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaDeep.iml" filepath="$PROJECT_DIR$/JavaDeep.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LeetcodeTest/LeetcodeTest.iml" filepath="$PROJECT_DIR$/LeetcodeTest/LeetcodeTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/concurrent/concurrent.iml" filepath="$PROJECT_DIR$/concurrent/concurrent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/design_patterns/design_patterns.iml" filepath="$PROJECT_DIR$/design_patterns/design_patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaDeep.iml" filepath="$PROJECT_DIR$/.idea/JavaDeep.iml" />
     </modules>
   </component>
 </project>
