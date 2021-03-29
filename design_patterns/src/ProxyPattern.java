@@ -27,7 +27,7 @@ class SchoolGirl{// 小女孩
 interface IGiveGift{// 公共接口
     public void GiveGift();
 }
-class Pesuit implements IGiveGift{// 追求者
+class  Pesuit implements IGiveGift{// 追求者
     SchoolGirl mm;
 
     Pesuit(SchoolGirl mm){
