@@ -15,6 +15,7 @@ public class InterruptDemo {
         // 获取许可
         LockSupport.park("ParkAndUnparkDemo");
         System.out.println("after park");
+
     }
 }
 
